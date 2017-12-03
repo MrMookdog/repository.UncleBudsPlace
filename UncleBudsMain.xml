@@ -1,0 +1,30 @@
+<xml>
+   <plugin>
+<title>Welcome to Uncle Buds TV and movies. This addon is strictly for Uncle Buds Use</title>
+<link></link>
+<thumbnail></thumbnail>
+   </plugin>
+   
+   
+   
+  <dir>
+    <title>Movies</title>
+    <link>file://movies.xml</link>
+  </dir>
+
+  <dir>
+    <title>TV</title>
+    <link>file://tv.xml</link>
+  </dir>
+
+  <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+  </dir>
+
+  <dir>
+    <title>Search TMDB</title>
+    <tmdb>search</tmdb>
+  </dir>
+
+</xml>
