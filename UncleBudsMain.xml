@@ -9,12 +9,12 @@
    
   <dir>
     <title>Movies</title>
-    <link>file://movies.xml</link>
+    <link>https://raw.githubusercontent.com/MrMookdog/repository.UncleBudsPlace/master/UncleBudsMovies.xml</link>
   </dir>
 
   <dir>
     <title>TV</title>
-    <link>file://tv.xml</link>
+    <link></link>
   </dir>
 
   <dir>
