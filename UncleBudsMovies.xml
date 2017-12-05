@@ -23,6 +23,11 @@
   <tmdb>movies/top_rated</tmdb>
 </dir>
 
+ <dir>
+    <title>Uncle Bud's Genres</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/repository.UncleBudsPlace/master/unclebudsgenres</link>
+  </dir>
+
 <dir>
   <title>Uncle Bud's Westerns</title>
   <tmdb>genre/movies/37</tmdb>
