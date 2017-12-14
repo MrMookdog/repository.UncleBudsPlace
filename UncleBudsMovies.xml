@@ -29,6 +29,12 @@
 </dir>
 
 <dir>
+    <title>Uncle Bud's Movies by Year</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/repository.UncleBudsPlace/master/unclobudsyears.xml</link>
+  </dir>
+
+
+<dir>
     <title>Uncle Bud's Production Companies</title>
     <link>https://raw.githubusercontent.com/MrMookdog/repository.UncleBudsPlace/master/unclebudsproductions.xml</link>
   </dir>
