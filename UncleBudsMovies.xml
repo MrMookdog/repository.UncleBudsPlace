@@ -28,7 +28,23 @@
  <tmdb>keyword/movies/10391</tmdb>
 </dir>
 
- <dir>
+<dir>
+    <title>Uncle Bud's Production Companies</title>
+    <link>https://github.com/MrMookdog/repository.UncleBudsPlace/blob/master/unclebudsproduction.xml</link>
+  </dir>
+
+<dir>
+    <title>Uncle Bud's Actors</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/repository.UncleBudsPlace/master/unclebudsactors.xml</link>
+  </dir>
+
+
+<dir>
+    <title>Uncle Bud's Actresses</title>
+    <link>https://github.com/MrMookdog/repository.UncleBudsPlace/blob/master/unclebudsactress.xml</link>
+  </dir>
+
+<dir>
     <title>Uncle Bud's Genres</title>
     <link>https://raw.githubusercontent.com/MrMookdog/repository.UncleBudsPlace/master/unclebudsgenres.xml</link>
   </dir>
